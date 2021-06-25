@@ -1,0 +1,26 @@
+{
+  "name": "pep_ir",
+  "version": "0.0.2",
+  "description": "اتصال به درگاه پرداخت بانک پاسارگاد",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "بانک",
+    "پاسارگاد",
+    "pep.ir",
+    "درگاه",
+    "پرداخت",
+    "payment",
+    "gateway"
+  ],
+  "author": "drfelfel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "nanoid": "^3.1.23",
+    "rsa-xml": "^0.1.5"
+  }
+}
